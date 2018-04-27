@@ -1,0 +1,14 @@
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\bin\Debug\netcoreapp2.0\Dinner.WebApi.deps.json
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\bin\Debug\netcoreapp2.0\Dinner.WebApi.runtimeconfig.json
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\bin\Debug\netcoreapp2.0\Dinner.WebApi.runtimeconfig.dev.json
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\bin\Debug\netcoreapp2.0\Dinner.WebApi.dll
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\obj\Debug\netcoreapp2.0\Dinner.WebApi.csprojResolveAssemblyReference.cache
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\obj\Debug\netcoreapp2.0\Dinner.WebApi.csproj.CoreCompileInputs.cache
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\obj\Debug\netcoreapp2.0\Dinner.WebApi.AssemblyInfoInputs.cache
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\obj\Debug\netcoreapp2.0\Dinner.WebApi.AssemblyInfo.cs
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\bin\Debug\netcoreapp2.0\Dinner.WebApi.pdb
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\obj\Debug\netcoreapp2.0\Dinner.WebApi.dll
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\obj\Debug\netcoreapp2.0\Dinner.WebApi.pdb
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\bin\Debug\netcoreapp2.0\Dinner.Dapper.dll
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\bin\Debug\netcoreapp2.0\Dinner.Dapper.pdb
+E:\Githurb\Dinner\Dinner\Dinner.WebApi\bin\Debug\netcoreapp2.0\Dinner.WebApi.xml

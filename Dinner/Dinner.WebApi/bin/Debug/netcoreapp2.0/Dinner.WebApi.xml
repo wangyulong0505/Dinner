@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dinner.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Dinner.WebApi.Controllers.UsersController.GetUsers">
+            <summary>
+            获取所有用户
+            </summary>
+            <returns></returns>
+            
+        </member>
+        <member name="M:Dinner.WebApi.Controllers.UsersController.PostUser(Dinner.Dapper.Entities.Users)">
+            <summary>
+            新增用户
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Dinner.WebApi.Controllers.UsersController.PutUser(Dinner.Dapper.Entities.Users)">
+            <summary>
+            修改用户信息
+            </summary>
+            <param name="entity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Dinner.WebApi.Controllers.UsersController.DeleteUser(System.Guid)">
+            <summary>
+            删除用户
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="P:Dinner.WebApi.Models.JwtSettings.Issuer">
+            <summary>
+            证书颁发者
+            </summary>
+        </member>
+        <member name="P:Dinner.WebApi.Models.JwtSettings.Audience">
+            <summary>
+            允许使用的角色
+            </summary>
+        </member>
+        <member name="P:Dinner.WebApi.Models.JwtSettings.SecretKey">
+            <summary>
+            加密字符串
+            </summary>
+        </member>
+        <member name="M:Dinner.WebApi.ServiceExtension.RegisterAssembly(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)">
+            <summary>
+            用DI批量注入接口程序集中对应的实现类
+            </summary>
+            需要注意的是，这里有如下约定：
+            IUserService --> UserService, IUserRepository --> UserRepository.
+            <param name="service"></param>
+            <param name="interfaceAssemblyName">接口程序集的名称（不包含文件扩展名）</param>
+            <returns></returns>
+        </member>
+        <member name="M:Dinner.WebApi.ServiceExtension.RegisterAssembly(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String,System.String)">
+            <summary>
+            用DI批量注入接口程序集中对应的实现类。
+            </summary>
+            <param name="service"></param>
+            <param name="interfaceAssemblyName">接口程序集的名称（不包含文件扩展名）</param>
+            <param name="implementAssemblyName">实现程序集的名称（不包含文件扩展名）</param>
+            <returns></returns>
+        </member>
+        <member name="M:Dinner.WebApi.Unit.RuntimeHelper.GetAllAssemblies">
+            <summary>
+            获取项目程序集，排除所有的系统程序集(Microsoft.***、System.***等)、Nuget下载包
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

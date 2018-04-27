@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinner.WebApi", "Dinner.WebApi\Dinner.WebApi.csproj", "{ED653023-92AE-4BCF-815F-E7A46C4FD4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinner.Dapper", "Dinner.Dapper\Dinner.Dapper.csproj", "{78C5E504-F7F5-4D4F-B71C-219AF70BB493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED653023-92AE-4BCF-815F-E7A46C4FD4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED653023-92AE-4BCF-815F-E7A46C4FD4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED653023-92AE-4BCF-815F-E7A46C4FD4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED653023-92AE-4BCF-815F-E7A46C4FD4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C5E504-F7F5-4D4F-B71C-219AF70BB493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C5E504-F7F5-4D4F-B71C-219AF70BB493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C5E504-F7F5-4D4F-B71C-219AF70BB493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C5E504-F7F5-4D4F-B71C-219AF70BB493}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E67CDD-43B3-46A8-B93A-FF4C2B273D4E}
+	EndGlobalSection
+EndGlobal

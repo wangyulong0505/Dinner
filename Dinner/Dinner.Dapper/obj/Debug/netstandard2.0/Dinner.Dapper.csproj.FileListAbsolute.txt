@@ -1,0 +1,9 @@
+E:\Githurb\Dinner\Dinner\Dinner.Dapper\bin\Debug\netstandard2.0\Dinner.Dapper.deps.json
+E:\Githurb\Dinner\Dinner\Dinner.Dapper\bin\Debug\netstandard2.0\Dinner.Dapper.dll
+E:\Githurb\Dinner\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.csproj.CoreCompileInputs.cache
+E:\Githurb\Dinner\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.AssemblyInfoInputs.cache
+E:\Githurb\Dinner\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.AssemblyInfo.cs
+E:\Githurb\Dinner\Dinner\Dinner.Dapper\bin\Debug\netstandard2.0\Dinner.Dapper.pdb
+E:\Githurb\Dinner\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.dll
+E:\Githurb\Dinner\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.pdb
+E:\Githurb\Dinner\Dinner\Dinner.Dapper\obj\Debug\netstandard2.0\Dinner.Dapper.csprojResolveAssemblyReference.cache
